@@ -2,10 +2,10 @@
   "category": "education",
   "templates": [
     {
-      "name": "Educatunify",
-      "folder": "educatunify",
+      "name": "Educat-unify",
+      "folder": "educat-unify",
       "version": "2.0.0",
-      "description": "Educatunify \u2013 static HTML/Bootstrap Education website template.",
+      "description": "Educat-unify \u2013 static HTML/Bootstrap Education website template.",
       "idealFor": [
         "colleges and universities",
         "online course providers",
@@ -18,7 +18,7 @@
         "logoUrl",
         "admissionsEmail"
       ],
-      "preview": "educatunify/preview.png",
+      "preview": "educat-unify/preview.png",
       "orderNumber": "TVORD63031597",
       "license": {
         "templateOrderAmount": 0.0,

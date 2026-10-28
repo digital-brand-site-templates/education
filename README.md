@@ -8,4 +8,4 @@ Static website templates for the Education category.
 
 Preview gallery: https://digital-brand-site-templates.github.io/education/
 
-- [Educatunify](educatunify/)
+- [Educat-unify](educat-unify/)
