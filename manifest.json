@@ -18,7 +18,15 @@
         "logoUrl",
         "admissionsEmail"
       ],
-      "preview": "educatunify/preview.png"
+      "preview": "educatunify/preview.png",
+      "orderNumber": "TVORD63031597",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
     }
   ]
 }
