@@ -1,0 +1,36 @@
+{
+  "name": "tpl-education-educatunify",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve src",
+    "build": "echo static site, no build step",
+    "verify": "echo static site, nothing to verify"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "agentMeta": {
+    "category": "education",
+    "idealFor": [
+      "colleges and universities",
+      "online course providers",
+      "training institutes",
+      "schools"
+    ],
+    "buildOutputDir": "src",
+    "customizationMap": {
+      "themeColors": "src/css/style.css",
+      "siteMetadata": "src/index.html (<head> title and meta tags)",
+      "navigation": "src/index.html (<header>/<nav> block, repeated in each page)",
+      "pagesDir": "src"
+    },
+    "requiredClientInputs": [
+      "institutionName",
+      "primaryColorHex",
+      "logoUrl",
+      "admissionsEmail"
+    ]
+  }
+}

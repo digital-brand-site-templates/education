@@ -1,0 +1,38 @@
+Educatunify — Responsive Educational Website Design Template
+============================================================
+
+Version 2.0 — 2026
+-------------------
+
+- Two complete new designs in one template, switched from a small "View"
+  control on the right edge of the screen (the choice is remembered;
+  ?view=timetable or ?view=wayfind in the address picks one):
+  "Timetable", navy, bright blue and highlighter yellow in Hepta Slab and
+  Atkinson Hyperlegible: the home page opens with a colour-coded taster-week
+  timetable beside the slides, and every class in it links to its course;
+  "Wayfinding", campus signage in Overpass and Lora: a full-width photo hero
+  with a sign-plate headline and direction signs, and an illustrated campus
+  map whose pins light up the matching department.
+- Keep one design by deleting a single script line (see js/view-switch.js).
+- Rebuilt on Bootstrap 5 with every behaviour in plain JavaScript (no other
+  libraries): slider, sticky header, header search, counters, countdown,
+  event tabs, testimonials carousel and back to top.
+- Four new pages: course detail (outline, fees, places left and an enquiry
+  form), teacher profile, event detail (schedule and seat booking) and
+  admissions (how to apply, key dates and a full application form).
+- Real education copy on every page in place of placeholder text: 12
+  courses, 9 teachers, 17 events, 6 blog posts, study plans and FAQs.
+- Every form works and confirms: newsletter (every page), free-course
+  registration, contact, course enquiry, event seat booking, application
+  and blog comment.
+- Seven ready-to-send HTML emails, one for each form.
+- Self-hosted fonts, Font Awesome 6 icons, and photos sized for fast pages.
+- Tuned for tablets and phones: two columns on tablets, no sideways scroll
+  from 320px up.
+- The seven old "Elements" demo pages were retired so the template is all
+  education content; their addresses redirect to the home page.
+
+Version 1.0
+-----------
+
+- Initial release.

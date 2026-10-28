@@ -1,0 +1,24 @@
+{
+  "category": "education",
+  "templates": [
+    {
+      "name": "Educatunify",
+      "folder": "educatunify",
+      "version": "2.0.0",
+      "description": "Educatunify \u2013 static HTML/Bootstrap Education website template.",
+      "idealFor": [
+        "colleges and universities",
+        "online course providers",
+        "training institutes",
+        "schools"
+      ],
+      "requiredClientInputs": [
+        "institutionName",
+        "primaryColorHex",
+        "logoUrl",
+        "admissionsEmail"
+      ],
+      "preview": "educatunify/preview.png"
+    }
+  ]
+}
